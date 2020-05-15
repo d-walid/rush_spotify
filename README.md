@@ -9,7 +9,4 @@ We used PHP/SQL, Lumen & React for all of this (was the goal of this project). I
 Feel free to discover our project.
 
 Team :
-narek.eloyan@epitech.eu
-victor.fagot@epitech.eu
-jason.martin-capilla@epitech.eu
-walid.didoune@epitech.eu
+narek.eloyan@epitech.eu - victor.fagot@epitech.eu - jason.martin-capilla@epitech.eu - walid.didoune@epitech.eu
