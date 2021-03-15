@@ -1,12 +1,11 @@
-# Rush_Spotify
+Ceci était un projet de groupe à 4 (moi inclus). Lié également à mon année à
+Épitech. Le but était de créer une librairie musicale libre de droits.
 
-Hello ! 
+Avec cette librairie, il y avait la possibilité de découvrir et écouter des artistes venant
+de tous les continents. Première utilisation de Lumen/React pour ce projet.
 
-This is a school project made with a group of four members (including myself). The goal was to create a library where you can listen and discover some tracks, styles, artists etc. All the musics are no copyrighted.
-
-We used PHP/SQL, Lumen & React for all of this (was the goal of this project). It was the first time with React & Lumen by the way.
-
-Feel free to discover our project.
+Il était très instructif et on a beaucoup appris avec les requêtes pour rechercher
+toutes les informations venant d’une base de données importée.
 
 Team :
-narek.eloyan@epitech.eu - victor.fagot@epitech.eu - jason.martin-capilla@epitech.eu - walid.didoune@epitech.eu
+narek.eloyan@epitech.eu - victor.fagot@epitech.eu - jason.martin-capilla@epitech.eu - didoune.walid@gmail.com
